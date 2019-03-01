@@ -1,0 +1,6 @@
+owner=497797412576952321
+prefix=W
+game=Wateen
+stayinchannel=true
+songinstatus=false
+token=NTUxMTA5NjI1MzAzNTMxNTIw.D1sM1Q.E7n5px0tUZDtQ8jQIOUXMyigsV0
